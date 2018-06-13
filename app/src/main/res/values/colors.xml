@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Add your own app color variables here-->
+    <color name="app_backgroundColor">#FF009966</color>
+    <color name="app_textColor">#FFFFFFFF</color>
+    <color name="button_textColor">#161616</color>
+    <color name="button_backgroundColor">#FF99FFCC</color>
+    <color name="textview_textColor">#FF4000</color>
+    <color name="textview_backgroundColor">#FFFFFF</color>
+
+
+</resources>
